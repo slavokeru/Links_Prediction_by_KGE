@@ -5,30 +5,22 @@ This project realise building knowledge graphs from text and create new KG with 
 The latest stable version of this project requires:
 
 Python  ==  3.9.12 and these libraries:
-
-
+<pre>
 codecs
-
-
 pykeen
-
-
 openie
-
-
 networkx
-
-
 matplotlib
+</pre>
 
-and libs which it requires
+---
+
+It can be downloaded and installed from PyPI with:<pre>pip install library_name</pre>
 
 ---
 ### How to use
-"data.txt" contains example text.
+"Data.txt" contains example text.
 
 You should change it on your text for get KG and KG with new entities.
 
 At the end of work program will start tests, which help to evaluate the trained model.
-
-
